@@ -13,7 +13,7 @@
 ```bash
 #登录
 
-echo "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" | docker login ghcr.io -u 1905801933@qq.com --password-stdin
+echo "ghp_Ol...." | docker login ghcr.io -u 1905801933@qq.com --password-stdin
 
 
 
