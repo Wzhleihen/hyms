@@ -17,10 +17,7 @@ echo "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" | docker login ghcr.io -u 190580
 
 
 
-root@docker-node01:/apps# echo "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" | docker login ghcr.io -u 1905801933@qq.com --password-stdin 
-WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
-Configure a credential helper to remove this warning. See
-https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
 
 Login Succeeded
 
